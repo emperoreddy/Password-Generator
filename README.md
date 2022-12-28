@@ -15,8 +15,8 @@
 To use the Password Generator, simply select the desired options and click the "Generate Password" button. The generated password will be displayed in the output field.
 
 ## Demo
-You can try out the Password Generator at the following URL:
-
+You can try out the Password Generator at the following URL !!(the copy image is not working because of codepen):
+https://codepen.io/emperoreddy/pen/jOpWJJq
 
 
 
